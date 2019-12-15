@@ -1,0 +1,11 @@
+AddCustomeUI, AddProductUI, AddPurchaseUI, AddUserUI, CashierUI, CustomerUI, LoginUI, MainUI, ManageCustomerUI, ManageProductUI, ManagePurchaseUI, ManagerUI, ManageUserUI, ProductReportUI, ProductSarchUI and PurchaseHistoryUI are used for generating UI.
+
+CustomerModel, ProductModel, PurchaseModel, ProductListModel, PurchaseListModel and UserModer, MessageModel are used for store data.
+
+IDataAdapter, OracleDataAdapter, SQLiteDataAdapter, NetworkDataAdapter are used for database adapter.
+
+IReceiptBuilder, TXTReceiptBuilder are used for generating receipt.
+
+StoreManager is used for loading database, communication with server and generate User Interface.
+
+StoreServer is used as server.
